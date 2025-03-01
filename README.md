@@ -6,4 +6,4 @@ My social:
 - @pinkspaces on Discord
 - My contact e-mail is bluvoide@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-UserName&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=em3rald1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
